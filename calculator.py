@@ -6,7 +6,7 @@ num2 = int(input("Enter the second number:"))
 # Step 3: Compute the Sum,Difference,Product and Quotient.
 # Add the two numbers
 sum_result = num1 + num2
-10
+
 # Subtract the two numbers
 difference_result = num1 - num2
 
