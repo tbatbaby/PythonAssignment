@@ -4,7 +4,7 @@ num1 = int(input("Enter the first number:"))
 num2 = int(input("Enter the second number:"))
 
 # Step 3: Compute the Sum,Difference,Product and Quotient.
-# Add the two numbers
+# Add the two numbers.
 sum_result = num1 + num2
 
 # Subtract the two numbers
